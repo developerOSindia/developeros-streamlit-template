@@ -1,5 +1,7 @@
 # DeveloperOS Streamlit Suite Template
 
+[![Live App](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B.svg)](https://devos-template.streamlit.app)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.38%2B-FF4B4B.svg)](https://streamlit.io)
@@ -8,6 +10,9 @@
 A production-ready, modular Streamlit template designed for building independently deployable tool suites within the [DeveloperOS](https://developeros.in) open-source ecosystem.
 
 ---
+
+> 🚀 **Live Application**: [https://devos-template.streamlit.app](https://devos-template.streamlit.app)
+
 
 ## 🌟 Key Features
 
@@ -215,7 +220,7 @@ When configuring this repository on GitHub, apply these topics:
 This project is licensed under the [MIT License](LICENSE).
 Part of the [DeveloperOS Open-Source Tools Ecosystem](https://developeros.in).
 
+- **Live Application**: [https://devos-template.streamlit.app](https://devos-template.streamlit.app)
 - **Main Website**: [https://developeros.in](https://developeros.in)
 - **Central Tools Directory**: [https://toolkit.developeros.in](https://toolkit.developeros.in)
 - **GitHub Organization**: [https://github.com/developerOSindia](https://github.com/developerOSindia)
-
