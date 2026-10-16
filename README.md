@@ -216,6 +216,6 @@ This project is licensed under the [MIT License](LICENSE).
 Part of the [DeveloperOS Open-Source Tools Ecosystem](https://developeros.in).
 
 - **Main Website**: [https://developeros.in](https://developeros.in)
-- **Central Tools Directory**: [https://tools.developeros.in](https://tools.developeros.in)
+- **Central Tools Directory**: [https://toolkit.developeros.in](https://toolkit.developeros.in)
 - **GitHub Organization**: [https://github.com/developerOSindia](https://github.com/developerOSindia)
 
