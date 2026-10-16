@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "developeros-streamlit-template"
+version = "1.0.0"
+description = "Production-oriented Streamlit suite template for DeveloperOS tools ecosystem"
+authors = [{ name = "DeveloperOS Team", email = "engineering@developeros.in" }]
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit>=1.38.0,<2.0.0",
+    "pyyaml>=6.0.1",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "ruff>=0.3.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
